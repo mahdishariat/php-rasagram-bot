@@ -1,5 +1,5 @@
 {
-    "name": "longman/telegram-bot",
+    "name": "mahdishariat/telegram-bot",
     "type": "library",
     "description": "PHP Telegram bot",
     "keywords": ["telegram", "bot", "api"],
@@ -11,15 +11,8 @@
     },
     "authors": [
         {
-            "name": "Avtandil Kikabidze aka LONGMAN",
-            "email": "akalongman@gmail.com",
-            "homepage": "http://longman.me",
-            "role": "Developer"
-        },
-        {
-            "name": "Armando Lüscher",
-            "email": "armando@noplanman.ch",
-            "homepage": "https://noplanman.ch",
+            "name": "Mohammad Mahdi Shariat",
+            "email": "shariat.mm@gmail.com",
             "role": "Developer"
         },
         {
